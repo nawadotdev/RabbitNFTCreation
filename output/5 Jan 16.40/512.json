@@ -1,0 +1,13 @@
+{
+  "name": "512",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "body_radioactive"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_hypnotized"
+    }
+  ]
+}

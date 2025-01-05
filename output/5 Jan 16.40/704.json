@@ -1,0 +1,13 @@
+{
+  "name": "704",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "body_ghost"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_angry"
+    }
+  ]
+}

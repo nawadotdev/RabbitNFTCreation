@@ -1,0 +1,13 @@
+{
+  "name": "203",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "body_skull"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_venom"
+    }
+  ]
+}
