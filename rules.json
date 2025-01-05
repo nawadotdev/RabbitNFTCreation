@@ -371,20 +371,48 @@
       "ifValue": "body_cyborg_gorilla.webp",
       "no": "mouth",
       "noValue": "mouth_muslim.webp"
-    }
-  ],
-  "specialRules": {
-    "multipleEyesNoHead": {
-      "if": "eyes",
-      "ifValues": ["eyes_goggles.webp", "eyes_mog.webp", "eyes_rap_glasses.webp", "eyes_UV.webp", "eyes_yellow.webp", "eyes_cool_blue.webp", "eyes_cool_yellow.webp"],
-      "no": "head",
-      "noValue": "ALL"
     },
-    "multipleEyesYesHead": {
-      "if": "eyes",
-      "ifValues": ["eyes_goggles.webp", "eyes_mog.webp", "eyes_rap_glasses.webp", "eyes_UV.webp", "eyes_yellow.webp", "eyes_cool_blue.webp", "eyes_cool_yellow.webp"],
-      "yes": "head",
-      "yesValue": "head_clown_red.webp"
+    {
+        "if": "eyes",
+        "ifValue": "eyes_goggles.webp",
+        "yes": "head",
+        "yesValue": "head_clown_red"
+    },
+    {
+        "if": "eyes",
+        "ifValue": "eyes_mog.webp",
+        "yes": "head",
+        "yesValue": "head_clown_red"
+    },
+    {
+        "if": "eyes",
+        "ifValue": "eyes_rap_glasses.webp",
+        "yes": "head",
+        "yesValue": "head_clown_red"
+    },
+    {
+        "if": "eyes",
+        "ifValue": "eyes_UV.webp",
+        "yes": "head",
+        "yesValue": "head_clown_red"
+    },
+    {
+        "if": "eyes",
+        "ifValue": "eyes_yellow.webp",
+        "yes": "head",
+        "yesValue": "head_clown_red"
+    },
+    {
+        "if": "eyes",
+        "ifValue": "eyes_cool_blue.webp",
+        "yes": "head",
+        "yesValue": "head_clown_red"
+    },
+    {
+        "if": "eyes",
+        "ifValue": "eyes_cool_yellow.webp",
+        "yes": "head",
+        "yesValue": "head_clown_red"
     }
-  }
+  ]
 } 
