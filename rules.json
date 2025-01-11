@@ -1,418 +1,321 @@
 {
-  "rules": [
-    {
-      "if": "body",
-      "ifValue": "body_leopard.webp",
-      "no": "mouth",
-      "noValue": "mouth_whiny.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_skeleton.webp",
-      "no": "mouth",
-      "noValue": "mouth_whiny.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_skeleton.webp",
-      "no": "mouth",
-      "noValue": "mouth_bite.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_skeleton.webp",
-      "no": "mouth",
-      "noValue": "mouth_skeleton.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_skeleton.webp",
-      "no": "mouth",
-      "noValue": "mouth_pipe.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_skeleton.webp",
-      "no": "mouth",
-      "noValue": "mouth_smile.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_skeleton.webp",
-      "no": "mouth",
-      "noValue": "mouth_lsd.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_skeleton.webp",
-      "no": "mouth",
-      "noValue": "mouth_manchu.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_skeleton.webp",
-      "no": "mouth",
-      "noValue": "mouth_bored.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_skeleton.webp",
-      "no": "mouth",
-      "noValue": "mouth_chipped.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "cyborg_gorilla.webp",
-      "no": "mouth",
-      "noValue": "mouth_chipped.webp"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_party.webp",
-      "no": "mouth",
-      "noValue": "mouth_pipe.webp"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_helmet.webp",
-      "no": "mouth",
-      "noValue": "mouth_pipe.webp"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_hippie.webp",
-      "no": "mouth",
-      "noValue": "mouth_cigarette.webp"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_hippie.webp",
-      "no": "mouth",
-      "noValue": "mouth_pipe.webp"
-    },
-    {
-      "if": "eyes",
-      "ifValue": "eyes_cool_blue.webp",
-      "no": "head",
-      "noValue": "head_viking.webp"
-    },
-    {
-      "if": "eyes",
-      "ifValue": "eyes_mog2.webp",
-      "no": "head",
-      "noValue": "head_punk.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_skull.webp",
-      "no": "eyes",
-      "noValue": "eyes_sunset.webp"
-    },
-    {
-      "if": "eyes",
-      "ifValue": "eyes_cute.webp",
-      "no": "head",
-      "noValue": "head_punk.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_fire.webp",
-      "no": "head",
-      "noValue": "head_witch_hat.webp"
-    },
-    {
-      "if": "eyes",
-      "ifValue": "eyes_lazer.webp",
-      "no": "head",
-      "noValue": "head_gorgons.webp"
-    },
-    {
-      "if": "eyes",
-      "ifValue": "eyes_lazer.webp",
-      "no": "head",
-      "noValue": "head_hippie.webp"
-    },
-    {
-      "if": "eyes",
-      "ifValue": "eyes_lazer.webp",
-      "no": "head",
-      "noValue": "head_dreads1.webp"
-    },
-    {
-      "if": "eyes",
-      "ifValue": "eyes_lazer.webp",
-      "no": "head",
-      "noValue": "head_rick.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_fire.webp",
-      "yes": "top",
-      "yesValue": "top_pimp_coat.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_fire.webp",
-      "yes": "top",
-      "yesValue": "top_trippy_hoodie.webp"
-    },
-    {
-      "if": "eyes",
-      "ifValue": "eyes_third_eye.webp",
-      "no": "top",
-      "noValue": "ZERO"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_cyborg.webp",
-      "no": "mouth",
-      "noValue": "ZERO"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_cyborg.webp",
-      "no": "eyes",
-      "noValue": "ZERO"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_venom.webp",
-      "no": "mouth",
-      "noValue": "mouth_hitler.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_venom.webp",
-      "no": "mouth",
-      "noValue": "mouth_cigarette.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_venom.webp",
-      "no": "mouth",
-      "noValue": "mouth_pipe.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "head_helmet.webp",
-      "no": "eyes",
-      "noValue": "eyes_third_eye.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_undead.webp",
-      "no": "head",
-      "noValue": "head_skin.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_hulk.webp",
-      "no": "top",
-      "noValue": "ZERO"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_hulk.webp",
-      "no": "mouth",
-      "noValue": "top_diamond_chain.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_purple_skeleton.webp",
-      "no": "mouth",
-      "noValue": "ZERO"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_skeleton.webp",
-      "no": "eyes",
-      "noValue": "ZERO"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_pink_skeleton.webp",
-      "no": "mouth",
-      "noValue": "ZERO"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_purple_skeleton.webp",
-      "no": "eyes",
-      "noValue": "ZERO"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_skeleton.webp",
-      "no": "mouth",
-      "noValue": "ZERO"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_pink_skeleton.webp",
-      "no": "eyes",
-      "noValue": "ZERO"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_helmet.webp",
-      "no": "mouth",
-      "noValue": "mouth_bandana.webp"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_helmet.webp",
-      "no": "mouth",
-      "noValue": "mouth_cigarette.webp"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_helmet.webp",
-      "no": "mouth",
-      "noValue": "mouth_lsd.webp"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_helmet.webp",
-      "no": "mouth",
-      "noValue": "mouth_manchu.webp"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_helmet.webp",
-      "no": "mouth",
-      "noValue": "mouth_muslim.webp"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_helmet.webp",
-      "no": "mouth",
-      "noValue": "mouth_pick.webp"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_helmet.webp",
-      "no": "mouth",
-      "noValue": "mouth_pipe.webp"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_helmet.webp",
-      "no": "mouth",
-      "noValue": "mouth_stick.webp"
-    },
-    {
-      "if": "head",
-      "ifValue": "head_helmet.webp",
-      "no": "mouth",
-      "noValue": "mouth_snoop.webp"
-    },
-    {
-      "if": "top",
-      "ifValue": "top_illuminati_hoodie.webp",
-      "no": "mouth",
-      "noValue": "mouth_bandana.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_fur.webp",
-      "no": "head",
-      "noValue": "head_skin.webp"
-    },
-    {
-      "if": "eyes",
-      "ifValue": "eyes_rick.webp",
-      "no": "head",
-      "noValue": "head_skin.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_cyborg_gorilla.webp",
-      "no": "mouth",
-      "noValue": "head_witch_hat.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_fire.webp",
-      "yes": "top",
-      "yesValue": "top_super_rabbit.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_venom.webp",
-      "no": "mouth",
-      "noValue": "mouth_smile.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_venom.webp",
-      "no": "eyes",
-      "noValue": "eyes_black_angry.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_venom.webp",
-      "no": "mouth",
-      "noValue": "mouth_muslim.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_ld_gorilla.webp",
-      "no": "mouth",
-      "noValue": "mouth_smile.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_cyborg_gorilla.webp",
-      "no": "eyes",
-      "noValue": "eyes_black_angry.webp"
-    },
-    {
-      "if": "body",
-      "ifValue": "body_cyborg_gorilla.webp",
-      "no": "mouth",
-      "noValue": "mouth_muslim.webp"
-    },
-    {
-        "if": "eyes",
-        "ifValue": "eyes_goggles.webp",
-        "yes": "head",
-        "yesValue": "head_clown_red"
-    },
-    {
-        "if": "eyes",
-        "ifValue": "eyes_mog.webp",
-        "yes": "head",
-        "yesValue": "head_clown_red"
-    },
-    {
-        "if": "eyes",
-        "ifValue": "eyes_rap_glasses.webp",
-        "yes": "head",
-        "yesValue": "head_clown_red"
-    },
-    {
-        "if": "eyes",
-        "ifValue": "eyes_UV.webp",
-        "yes": "head",
-        "yesValue": "head_clown_red"
-    },
-    {
-        "if": "eyes",
-        "ifValue": "eyes_yellow.webp",
-        "yes": "head",
-        "yesValue": "head_clown_red"
-    },
-    {
-        "if": "eyes",
-        "ifValue": "eyes_cool_blue.webp",
-        "yes": "head",
-        "yesValue": "head_clown_red"
-    },
-    {
-        "if": "eyes",
-        "ifValue": "eyes_cool_yellow.webp",
-        "yes": "head",
-        "yesValue": "head_clown_red"
+  "traitOrder": [
+    "body",
+    "eyes",
+    "head",
+    "mouth",
+    "top"
+  ],
+  "selectionRules": {
+    "bodyRules": {
+      "ifNo": [
+        {
+          "name": "body_cyborg_gorilla.webp",
+          "trait": "mouth",
+          "traitValues": [
+            "mouth_chipped.webp",
+            "mouth_muslim.webp",
+            "mouth_smile.webp"
+          ]
+        },
+        {
+          "name": "body_cyborg_gorilla.webp",
+          "trait": "eyes",
+          "traitValues": [
+            "eyes_black_angry.webp"
+          ]
+        },
+        {
+          "name": "body_cyborg_gorilla.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_witch_hat.webp"
+          ]
+        },
+        {
+          "name": "body_skull.webp",
+          "trait": "eyes",
+          "traitValues": [
+            "eyes_sunset.webp"
+          ]
+        },
+        {
+          "name": "body_fire.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_witch_hat.webp"
+          ]
+        },
+        {
+          "name": "body_venom.webp",
+          "trait": "mouth",
+          "traitValues": [
+            "mouth_hitler.webp",
+            "mouth_cigarette.webp",
+            "mouth_pipe.webp",
+            "mouth_smile.webp",
+            "mouth_muslim.webp",
+            "mouth_goku.webp"
+          ]
+        },
+        {
+          "name": "body_venom.webp",
+          "trait": "eyes",
+          "traitValues": [
+            "eyes_black_angry.webp"
+          ]
+        },
+        {
+          "name": "body_undead.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_skin.webp"
+          ]
+        },
+        {
+          "name": "body_hulk.webp",
+          "trait": "mouth",
+          "traitValues": [
+            "top_diamond_chain.webp"
+          ]
+        },
+        {
+          "name": "body_fur.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_skin.webp"
+          ]
+        }
+      ],
+      "ifYes": [
+        {
+          "name": "body_fire.webp",
+          "trait": "top",
+          "traitValues": [
+            "top_pimp_coat.webp",
+            "top_trippy_hoodie.webp",
+            "top_super_rabbit.webp"
+          ]
+        },
+        {
+          "name": "body_hulk.webp",
+          "trait": "top",
+          "traitValues": ["null.webp"]
+        },
+        {
+          "name": "body_cyborg_gorilla.webp",
+          "trait": "top",
+          "traitValues" : ["null.webp"]
+        },
+        {
+          "name": "body_jacked.webp",
+          "trait":"top",
+          "traitValues": ["null.webp"]
+        },
+        {
+          "name": "body_hulk.webp",
+          "trait": "top",
+          "traitValues": ["null.webp"]
+        },
+        {
+          "name": "body_cyborg.webp",
+          "trait": "mouth",
+          "traitValues": ["null.webp"]
+        },
+        {
+          "name": "body_purple_skeleton.webp",
+          "trait": "mouth",
+          "traitValues": ["null.webp"]
+        },
+        {
+          "name": "body_purple_skeleton.webp",
+          "trait": "eyes",
+          "traitValues": ["null.webp"]
+        },
+        {
+          "name": "body_pink_skeleton.webp",
+          "trait": "mouth",
+          "traitValues": ["null.webp"]
+        },
+        {
+          "name": "body_pink_skeleton.webp",
+          "trait": "eyes",
+          "traitValues": ["null.webp"]
+        },
+        {
+          "name": "body_skeleton.webp",
+          "trait": "mouth",
+          "traitValues": ["null.webp"]
+        },
+        {
+          "name": "body_skeleton.webp",
+          "trait": "eyes",
+          "traitValues": ["null.webp"]
+        },
+        {
+          "name": "body_radioactive.webp",
+          "trait": "mouth",
+          "traitValues": ["null.webp"]
+        }
+      ]
+    },
+    "eyesRules": {
+      "ifNo": [
+        {
+          "name": "eyes_yellow.webp",
+          "trait": "mouth",
+          "traitValues": ["mouth_clown1.webp"]
+        },
+        {
+          "name": "eyes_rick.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_skin.webp"
+          ]
+        },
+        {
+          "name": "eyes_lazer.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_gorgons.webp",
+            "head_hippie.webp",
+            "head_dreads1.webp",
+            "head_rick.webp",
+            "head_helmet.webp"
+          ]
+        },
+        {
+          "name": "eyes_lazer.webp",
+          "trait": "mouth",
+          "traitValues" : ["mouth_muslim.webp"]
+        },
+        {
+          "name": "eyes_mog.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_punk.webp"
+          ]
+        },
+        {
+          "name": "eyes_mog.webp",
+          "trait": "mouth",
+          "traitValues": ["mouth_big_smile.webp"]
+        },
+        {
+          "name": "eyes_cute.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_punk.webp"
+          ]
+        }
+      ],
+      "ifYes": [
+        {
+          "name": "eyes_goggles.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_clown_red.webp"
+          ]
+        },
+        {
+          "name": "eyes_mog.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_clown_red.webp"
+          ]
+        },
+        {
+          "name": "eyes_rap_glasses.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_clown_red.webp"
+          ]
+        },
+        {
+          "name": "eyes_UV.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_clown_red.webp"
+          ]
+        },
+        {
+          "name": "eyes_yellow.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_clown_red.webp"
+          ]
+        },
+        {
+          "name": "eyes_cool_blue.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_clown_red.webp"
+          ]
+        },
+        {
+          "name": "eyes_cool_yellow.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_clown_red.webp"
+          ]
+        },
+        {
+          "name": "eyes_third_eye.webp",
+          "trait": "head",
+          "traitValues": ["null.webp"]
+        }
+      ]
+    },
+    "headRules": {
+      "ifNo": [
+        {
+          "name": "head_party.webp",
+          "trait": "mouth",
+          "traitValues": [
+            "mouth_pipe.webp"
+          ]
+        },
+        {
+          "name": "head_helmet.webp",
+          "trait": "mouth",
+          "traitValues": [
+            "mouth_pipe.webp",
+            "mouth_bandana.webp",
+            "mouth_cigarette.webp",
+            "mouth_lsd.webp",
+            "mouth_manchu.webp",
+            "mouth_muslim.webp",
+            "mouth_pick.webp",
+            "mouth_stick.webp",
+            "mouth_snoop.webp"
+          ]
+        },
+        {
+          "name": "head_hippie.webp",
+          "trait": "mouth",
+          "traitValues": [
+            "mouth_pipe.webp",
+            "mouth_cigarette.webp"
+          ]
+        }
+      ],
+      "ifYes": []
+    },
+    "mouthRules": {
+      "ifNo": [
+        {
+          "name": "mouth_bandana.webp",
+          "trait": "top",
+          "traitValues": [
+            "top_illuminati_hoodie.webp"
+          ]
+        }
+      ],
+      "ifYes": []
+    },
+    "topRules": {
+      "ifNo": [],
+      "ifYes": []
     }
-  ]
-} 
+  }
+}
