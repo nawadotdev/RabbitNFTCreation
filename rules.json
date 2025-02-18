@@ -57,7 +57,9 @@
           "traitValues": [
             "mouth_chipped.webp",
             "mouth_muslim.webp",
-            "mouth_smile.webp"
+            "mouth_smile.webp",
+            "mouth_pipe.webp",
+            "mouth_goku.webp"
           ]
         },
         {
@@ -247,19 +249,59 @@
           "traitValues": [
             "null.webp"
           ]
+        },
+        {
+          "name": "body_radioactive.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_skin.webp"
+          ]
         }
       ]
     },
     "eyesRules": {
       "ifNo": [
         {
+          "name": "eyes_black_angry.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_skin.webp"
+          ]
+        },
+        {
+          "name": "eyes_sus.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_skin.webp"
+          ]
+        },
+        {
+          "name": "eyes_gold_glasses.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_skin.webp",
+            "head_mullet.wbp",
+            "head_paper.wbp",
+            "head_mcdonalds.wbp",
+            "head_denim_cap.wbp",
+            "head_illuminati.wbp",
+            "head_sleek.wbp",
+            "head_retardio.wbp",
+            "head_blonde.wbp",
+            "head_side_cap.wbp",
+            "head_bandana.wbp",
+            "head_winter.wbp",
+            "head_gucci_bandana.wbp"
+          ]
+        },
+        {
           "name": "eyes_yellow.webp",
           "trait": "head",
           "traitValues": [
             "head_clown_red.webp",
-            "head_baseball.webp", 
-            "head_retardio.webp", 
-            "head_illuminati.webp", 
+            "head_baseball.webp",
+            "head_retardio.webp",
+            "head_illuminati.webp",
             "head_denim_cap.webp"
           ]
         },
@@ -274,7 +316,37 @@
           "name": "eyes_sunset.webp",
           "trait": "head",
           "traitValues": [
-            "head_gorgons.webp"
+            "head_gorgons.webp",
+            "head_mullet.wbp",
+            "head_paper.wbp",
+            "head_mcdonalds.wbp",
+            "head_denim_cap.wbp",
+            "head_illuminati.wbp",
+            "head_sleek.wbp",
+            "head_retardio.wbp",
+            "head_blonde.wbp",
+            "head_side_cap.wbp",
+            "head_bandana.wbp",
+            "head_winter.wbp",
+            "head_gucci_bandana.wbp"
+          ]
+        },
+        {
+          "name": "eyes_white_glasses.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_mullet.wbp",
+            "head_paper.wbp",
+            "head_mcdonalds.wbp",
+            "head_denim_cap.wbp",
+            "head_illuminati.wbp",
+            "head_sleek.wbp",
+            "head_retardio.wbp",
+            "head_blonde.wbp",
+            "head_side_cap.wbp",
+            "head_bandana.wbp",
+            "head_winter.wbp",
+            "head_gucci_bandana.wbp"
           ]
         },
         {
@@ -282,10 +354,23 @@
           "trait": "head",
           "traitValues": [
             "head_clown_red.webp",
-            "head_baseball.webp", 
-            "head_retardio.webp", 
-            "head_illuminati.webp", 
-            "head_denim_cap.webp"
+            "head_baseball.webp",
+            "head_retardio.webp",
+            "head_illuminati.webp",
+            "head_denim_cap.webp",
+            "head_skin.webp",
+            "head_mullet.wbp",
+            "head_paper.wbp",
+            "head_mcdonalds.wbp",
+            "head_denim_cap.wbp",
+            "head_illuminati.wbp",
+            "head_sleek.wbp",
+            "head_retardio.wbp",
+            "head_blonde.wbp",
+            "head_side_cap.wbp",
+            "head_bandana.wbp",
+            "head_winter.wbp",
+            "head_gucci_bandana.wbp"
           ]
         },
         {
@@ -299,7 +384,19 @@
           "name": "eyes_orange.webp",
           "trait": "head",
           "traitValues": [
-            "head_gorgons.webp"
+            "head_gorgons.webp",
+            "head_mullet.wbp",
+            "head_paper.wbp",
+            "head_mcdonalds.wbp",
+            "head_denim_cap.wbp",
+            "head_illuminati.wbp",
+            "head_sleek.wbp",
+            "head_retardio.wbp",
+            "head_blonde.wbp",
+            "head_side_cap.wbp",
+            "head_bandana.wbp",
+            "head_winter.wbp",
+            "head_gucci_bandana.wbp"
           ]
         },
         {
@@ -314,14 +411,56 @@
           "trait": "head",
           "traitValues": [
             "head_bandana.webp",
-            "head_gucci_bandana.webp"
+            "head_gucci_bandana.webp",
+            "head_mullet.wbp",
+            "head_paper.wbp",
+            "head_mcdonalds.wbp",
+            "head_denim_cap.wbp",
+            "head_illuminati.wbp",
+            "head_sleek.wbp",
+            "head_retardio.wbp",
+            "head_blonde.wbp",
+            "head_side_cap.wbp",
+            "head_bandana.wbp",
+            "head_winter.wbp",
+            "head_gucci_bandana.wbp"
+          ]
+        },
+        {
+          "name": "eyes_heart.webp",
+          "trait": "head",
+          "traitValues": [
+            "head_mullet.wbp",
+            "head_paper.wbp",
+            "head_mcdonalds.wbp",
+            "head_denim_cap.wbp",
+            "head_illuminati.wbp",
+            "head_sleek.wbp",
+            "head_retardio.wbp",
+            "head_blonde.wbp",
+            "head_side_cap.wbp",
+            "head_bandana.wbp",
+            "head_winter.wbp",
+            "head_gucci_bandana.wbp"
           ]
         },
         {
           "name": "eyes_black.webp",
           "trait": "head",
           "traitValues": [
-            "head_wrestler_ear.webp"
+            "head_wrestler_ear.webp",
+            "head_mullet.wbp",
+            "head_paper.wbp",
+            "head_mcdonalds.wbp",
+            "head_denim_cap.wbp",
+            "head_illuminati.wbp",
+            "head_sleek.wbp",
+            "head_retardio.wbp",
+            "head_blonde.wbp",
+            "head_side_cap.wbp",
+            "head_bandana.wbp",
+            "head_winter.wbp",
+            "head_gucci_bandana.wbp"
           ]
         },
         {
@@ -363,10 +502,22 @@
           "traitValues": [
             "head_punk.webp",
             "head_clown_red.webp",
-            "head_baseball.webp", 
-            "head_retardio.webp", 
-            "head_illuminati.webp", 
-            "head_denim_cap.webp"
+            "head_baseball.webp",
+            "head_retardio.webp",
+            "head_illuminati.webp",
+            "head_denim_cap.webp",
+            "head_mullet.wbp",
+            "head_paper.wbp",
+            "head_mcdonalds.wbp",
+            "head_denim_cap.wbp",
+            "head_illuminati.wbp",
+            "head_sleek.wbp",
+            "head_retardio.wbp",
+            "head_blonde.wbp",
+            "head_side_cap.wbp",
+            "head_bandana.wbp",
+            "head_winter.wbp",
+            "head_gucci_bandana.wbp"
           ]
         },
         {
